@@ -1,2 +1,2 @@
-# Project
+# Encryptix
 Machine Learning Projects
