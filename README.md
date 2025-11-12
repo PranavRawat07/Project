@@ -1,2 +1,2 @@
-E-mail spam detection
+#E-mail spam detection
 Machine Learning Projects
